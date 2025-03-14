@@ -1,0 +1,30 @@
+_repo: Beauvallet_75547
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Heyer, Georgette
+    birthdate: 1902
+    deathdate: 1974
+    gutenberg_agent_id: '39614'
+    url: http://www.gutenberg.org/2009/agents/39614
+    wikipedia: https://en.wikipedia.org/wiki/Georgette_Heyer
+description: ''
+gutenberg_issued: '2025-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75547'
+language: en
+pgterms:marc905: 20250103130103heyer
+pgterms:marc906: '1929'
+pgterms:marc907: GB
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aLondon :$bWilliam Heinemann Ltd, $c1929, pubdate 1931, pubdate
+  1932.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Beauvallet
+url: http://www.gutenberg.org/ebooks/75547
